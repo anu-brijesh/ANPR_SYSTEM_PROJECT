@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 2️⃣ Add YOLO model
 Place your trained .pt file inside:
-models/yolo_weight/
+models/yolo_weight
 
 3️⃣ Add test images
 Put vehicle images in:
